@@ -4,6 +4,8 @@
 
 🔭 I’m looking to collaborate on robotics research projects
 
+💬 You can see more about me [here](https://web-page-cv-ten.vercel.app/)
+
 📫 Reach me out: asalcedo2702@gmail.com
 <!--
 **andrea2702/andrea2702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
