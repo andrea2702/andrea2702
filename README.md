@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hello, I'm Andy 👋
 
+🤖 I am a Robotics Engineer, currently working as computer engineer.
+🔭 I’m looking to collaborate on research projects
+
+📫 Reach me out: asalcedo2702@gmail.com
 <!--
 **andrea2702/andrea2702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
