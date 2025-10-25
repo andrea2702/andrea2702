@@ -1,6 +1,6 @@
 ## Hello, I'm Andy 👋
 
-🤖 I am a Robotics Engineer, currently working as Computer Vision Engineer.
+🤖 I am a Robotics Engineer, currently working as Robotics Engineer.
 
 🔭 I’m looking to collaborate on robotics research projects
 
